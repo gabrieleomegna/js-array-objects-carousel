@@ -1,0 +1,22 @@
+body{
+    font-family: "Montserrat", sans-serif;
+}
+
+div.different-container{
+    min-height: 540px;
+    min-width: 800px ;
+    max-width: 1350px;
+    margin: 0 auto;
+    /* background-color: aquamarine; */
+}
+
+div.images{
+    /* background-color: cadetblue; */
+    height: 540px;
+    border: 1px solid;
+    width: 80%;
+}
+
+
+
+
