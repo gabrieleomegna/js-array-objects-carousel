@@ -22,3 +22,7 @@ const images = [
     }
 ];
 const slidesWrapperEl =document.querySelector('div.images');
+
+images.forEach((element, index) => {
+    
+})
